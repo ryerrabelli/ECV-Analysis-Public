@@ -1,5 +1,6 @@
 # ECV-Analysis
 
+This repository contains the code and data for the manuscript "The Optimal Prediction Model for Successful External Cephalic Version" accepted to the American Journal of Perinatology in 2024.  Below is a template README that I use for all my projects.
 
 ## Installation/Usage
 This is not a python package to be "installed". The code can be used immediately after cloning from Github.
